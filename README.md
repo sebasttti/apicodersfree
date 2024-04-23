@@ -27,7 +27,7 @@ php artisan migrate:fresh --seed
 php artisan serve
 ```
 
-Para correr sobre un Virtual Host, por favor ver el siguiente [video](https://www.youtube.com/watch?v=HzygRlPmYQc).
+Para correr sobre un Virtual Host, por favor ver el siguiente [video](https://www.youtube.com/watch?v=HzygRlPmYQc){:target="_blank"}.
 
 ## Cómo contribuir
 
@@ -35,4 +35,4 @@ Probablemente no estaré atento a recibir pull request 😥.
 
 ## Licencia
 
-[MIT](https://choosealicense.com/licenses/mit/)
+[MIT](https://choosealicense.com/licenses/mit/){:target="_blank"}
